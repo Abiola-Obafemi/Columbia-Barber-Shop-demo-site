@@ -35,10 +35,6 @@ export default function Home() {
               >
                 Book Your Chair
               </a>
-              <div className="flex items-center gap-3 px-4 py-2 bg-white/10 backdrop-blur-md rounded-full border border-white/20">
-                <div className="w-2 h-2 bg-emerald-400 rounded-full animate-pulse" />
-                <span className="text-sm font-medium">Open Today until 7pm</span>
-              </div>
             </div>
           </motion.div>
         </div>
